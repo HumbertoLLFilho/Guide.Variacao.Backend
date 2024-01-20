@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUKLO0U8Td6l0JNuQhfe3WUR3+tk62aI2OFofluW+x0D1GzCYybPKSkuGcoiD7XK01760bJ+nsmfxh1FhuOY3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hleit\\Desktop\\Pessoal\\Dev\\Entrevista\\Guide.Variacao.Backend\\Guide.Variacao.Backend\\Guide.Variacao.Presentation\\Guide.Variacao.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hleit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hleit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hleit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\hleit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\hleit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\hleit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

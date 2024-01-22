@@ -1,0 +1,16 @@
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\bin\Debug\net8.0\Guide.Variacao.Domain.deps.json
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\bin\Debug\net8.0\Guide.Variacao.Domain.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\bin\Debug\net8.0\Guide.Variacao.Domain.pdb
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\bin\Debug\net8.0\Guide.Variacao.Infra.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\bin\Debug\net8.0\Guide.Variacao.Infra.pdb
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.csproj.AssemblyReference.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.AssemblyInfoInputs.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.AssemblyInfo.cs
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.sourcelink.json
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.csproj.CopyComplete
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\refint\Guide.Variacao.Domain.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\Guide.Variacao.Domain.pdb
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Domain\obj\Debug\net8.0\ref\Guide.Variacao.Domain.dll

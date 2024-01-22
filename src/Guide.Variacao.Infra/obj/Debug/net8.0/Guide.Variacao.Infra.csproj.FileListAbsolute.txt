@@ -1,0 +1,13 @@
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\bin\Debug\net8.0\Guide.Variacao.Infra.deps.json
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\bin\Debug\net8.0\Guide.Variacao.Infra.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\bin\Debug\net8.0\Guide.Variacao.Infra.pdb
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.csproj.AssemblyReference.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.AssemblyInfoInputs.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.AssemblyInfo.cs
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.csproj.CoreCompileInputs.cache
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.sourcelink.json
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\refint\Guide.Variacao.Infra.dll
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\Guide.Variacao.Infra.pdb
+C:\Users\hleit\Desktop\Pessoal\Dev\Entrevista\Guide.Variacao.Backend\src\Guide.Variacao.Infra\obj\Debug\net8.0\ref\Guide.Variacao.Infra.dll

@@ -11,10 +11,10 @@
         public int DayOneVariation =>
             (int)Math.Ceiling(CalcVariation(TodayPrice, _dayOnePrice));
 
-        public double YesterdayVariation =>
+        public double YesterdayVariation => YestardayPrice == 0 ? 0 :
             CalcVariation(TodayPrice, YestardayPrice);
 
         private double CalcVariation(double firstValue, double secondValue) =>
-            firstValue == 0 ? 0 : Math.Round(((firstValue - secondValue) / firstValue) * 100, 2);
+            firstValue == 0 ? 0 : Math.Round((firstValue - secondValue) / firstValue * 100, 2);
     }
 }

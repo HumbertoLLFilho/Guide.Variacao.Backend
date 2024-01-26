@@ -13,16 +13,17 @@ namespace Guide.Variacao.Presentation.Configuration
         {
             var builder = WebApplication.CreateBuilder(args).Configure();
 
-            // Add services to the container.
-            builder.Services.AddAuthorization();
-
             builder.Services.AddAutoMapper(config => { 
                 config.AddProfile<ModelToViewModelMappingProfile>(); 
             });
 
+            // Add services to the container.
+
+            builder.Services.AddAuthorization();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddOutputCache();
 
             var app = builder.Build();
 
@@ -32,6 +33,8 @@ namespace Guide.Variacao.Presentation.Configuration
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            
+            app.UseOutputCache();
 
             return app;
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guide.Variacao.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c3e8c484d612ed06cbfe179ad9716b60b193d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852a5cb6d0e98ad1f32288a29a06c7fcdba659f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guide.Variacao.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guide.Variacao.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

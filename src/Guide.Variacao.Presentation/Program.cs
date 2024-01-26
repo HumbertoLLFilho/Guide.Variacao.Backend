@@ -10,7 +10,7 @@ AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 RequestPipelineBuilder.Configure(app);
 
 // Configure APIs 
-app.RegisterStockEndpoints();
+StockEndPoint.RegisterEndpoints(app);
 
 // Start the app
 app.Run();
